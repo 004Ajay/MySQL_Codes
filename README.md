@@ -4,9 +4,9 @@
 
 * [Task 2 - Spring Application (Trainer App)](https://github.com/004Ajay/Tasks/tree/main/Task2_SpringApp)
 
-<!-- 
+* [Task 3 - Spring Application (Trainer App)](https://github.com/004Ajay/Tasks/tree/main/Task3_JPAstreamer/jpastreamer-demo)
 
-* [Task 3 - Spring Application (Trainer App)](https://github.com/004Ajay/Tasks/tree/main/Task2_SpringApp)
+<!-- 
 
 * [Task 4 - Spring Application (Trainer App)](https://github.com/004Ajay/Tasks/tree/main/Task2_SpringApp)
 
