@@ -1,7 +1,5 @@
 package com.example.jpastreamer_demo.model;
 
-// package com.example.jpastreamer.model;
-
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
